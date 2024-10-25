@@ -1,2 +1,3 @@
 merge conflict
 work1
+work2
